@@ -1,6 +1,6 @@
 # Presentación del Proyecto DUAL
 
-Este repositorio contiene la presentación del proyecto **DUAL**, que forma parte de nuestra propuesta formativa.
+Este repositorio contiene la presentación del proyecto **DUAL** de Antonio Lorenzo en **PWC**
 
 🔗 **Enlace a la presentación animada en Canva**:  
 [Ver presentación en Canva](https://www.canva.com/design/DAGofKzHEv8/Wq4JLcg5GBi-OxarTUuJ7w/view?utm_content=DAGofKzHEv8&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel)
