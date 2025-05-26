@@ -10,32 +10,32 @@ Este repositorio contiene la presentación del proyecto **DUAL**, que forma part
 ## Primer Proyecto
 
 Descripción del primer proyecto.  
-📹 [Ver video](#)
+📹 [Ver video](https://youtu.be/GzLfuRRy9_g)
 
 ---
 
 ## Segundo Proyecto
 
 Descripción del segundo proyecto.  
-📹 [Ver video](#)
+📹 [Ver video](https://youtu.be/MghrN0IWSrY)
 
 ---
 
 ## Tercer Proyecto
 
 Descripción del tercer proyecto.  
-📹 [Ver video](#)
+📹 [Ver video](https://youtu.be/N5zG8ObQlCs)
 
 ---
 
 ## Cuarto Proyecto
 
 Descripción del cuarto proyecto.  
-📹 [Ver video](#)
+📹 [Ver video](https://youtu.be/xrNw6j8bV4c)
 
 ---
 
 ## Quinto Proyecto
 
 Descripción del quinto y último proyecto.  
-📹 [Ver video](#)
+📹 [Ver video](https://youtu.be/1YcqmZc5Jvw)
